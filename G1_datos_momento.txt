@@ -1,0 +1,11 @@
+compuesto,fase,momento
+C1,gas,1.7299
+C1,agua,2.3559
+C1,decalina,1.9816
+C2,gas,1.8067
+C2,agua,2.5135
+C2,decalina,2.0878
+C3,gas,2.0113
+C3,agua,2.7716
+C3,decalina,2.3077
+
