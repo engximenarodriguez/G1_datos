@@ -1,0 +1,10 @@
+compuesto,fase,fukui
+C1,gas,0.5522
+C1,agua,0.5666
+C1,decalina,0.5582
+C2,gas,0.5231
+C2,agua,0.55
+C2,decalina,0.5351
+C3,gas,0.4936
+C3,agua,0.537
+C3,decalina,0.5142
