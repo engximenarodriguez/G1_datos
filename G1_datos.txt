@@ -1,0 +1,10 @@
+compuesto,fase,carga_atomica
+C1,gas,-0.0574
+C1,agua,-0.0978
+C1,decalina,-0.0742
+C2,gas,-0.0574
+C2,agua,-0.0997
+C2,decalina,-0.0749
+C3,gas,-0.0619
+C3,agua,-0.1076
+C3,decalina,-0.0806
